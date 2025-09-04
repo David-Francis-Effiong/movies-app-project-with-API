@@ -49,7 +49,7 @@ Add your TMDb API key:
 
 
 📸 Screenshots
-<p align="center"> <img src="./src/assets/movies_project.png" alt="Home Page" width="45%"/></p>
+<p align="center"> <img src="./src/assets/movies_project.png" alt="Home Page" width="55%"/></p>
 
 📂 Project Structure
 pgsql
